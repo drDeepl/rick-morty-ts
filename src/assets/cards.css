@@ -1,0 +1,27 @@
+.name-character {
+  font-weight: 800;
+  font-size: 1.6em;
+  margin: 0;
+}
+
+.subheader-card {
+  display: flex;
+  align-items: center;
+}
+
+.subheader-card > span {
+  text-transform: capitalize;
+  font-size: var(--sub-text-size);
+  font-weight: bold;
+  margin-right: 0.4em;
+}
+
+.label-row-card {
+  color: var(--grey-color);
+  font-size: var(--sub-text-size);
+  font-weight: bold;
+}
+
+.text-row-container > p {
+  margin: 0.5em 0;
+}

@@ -1,0 +1,15 @@
+@import 'normalize.css';
+@import 'base.css';
+@import 'containers.css';
+@import 'cards.css';
+@import 'img.css';
+@import 'decorations.css';
+@import 'buttons.css';
+@import 'animations.css';
+@import 'forms.css';
+@import 'spinners.css';
+
+:root {
+  color: #fffffe;
+  font-family: sans-serif;
+}
